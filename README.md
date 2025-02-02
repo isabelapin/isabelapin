@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabelapin
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python in Harvard online courses.
 - 💞️ I’m looking to collaborate on creative and helpful companies.
 - 📫 How to reach me: gmail.
 - 😄 Pronouns: she/her.
